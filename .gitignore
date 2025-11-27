@@ -1,0 +1,23 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Big/unnecessary files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.pkl
+*.h5
+
+# Extra folders (agar banaye ho)
+predict-stock/
+download-tesla/
+
+# VS Code settings
+.vscode/
